@@ -1,0 +1,3 @@
+﻿  arbolito.cpp
+C:\Users\loren\source\repos\arbolito\arbolito\arbolito.cpp(9,7): warning C4101: 'arbol': variable local sin referencia
+  arbolito.vcxproj -> C:\Users\loren\source\repos\arbolito\x64\Debug\arbolito.exe
